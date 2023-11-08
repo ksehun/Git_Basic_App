@@ -15,3 +15,7 @@ cat config
 git log : 커밋이력 확인
 
 토큰 :repo, gist
+
+git log -1 : 최근 1개의 이력만 확인
+
+파일 아이콘 플러그인
