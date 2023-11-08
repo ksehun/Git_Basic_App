@@ -2,9 +2,9 @@
 * Init
 * Add 와 Commit
 
-* git init
+git init
 
-* git branch -M main : 마스터 이름변경
+git branch -M main : 마스터 이름변경
 
 커밋안항상태 : rm chached
 
@@ -19,3 +19,5 @@ git log : 커밋이력 확인
 git log -1 : 최근 1개의 이력만 확인
 
 파일 아이콘 플러그인
+
+* Push 명령어로 원격저장소에 올리기
