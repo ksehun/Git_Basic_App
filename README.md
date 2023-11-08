@@ -22,4 +22,4 @@ git log -1 : 최근 1개의 이력만 확인
 
 * Push 명령어로 원격저장소에 올리기
 * Clone 명령어
-* Pull 과 Fetch 명령어
+* Pull 과 Fetch 명령어!
