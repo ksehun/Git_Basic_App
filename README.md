@@ -8,4 +8,10 @@
 
 커밋안항상태 : rm chached
 
-커밋한상태 : resotre
+커밋한상태 : restore
+
+cat config
+
+git log : 커밋이력 확인
+
+토큰 :repo, gist
