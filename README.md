@@ -24,3 +24,4 @@ git log -1 : 최근 1개의 이력만 확인
 * Clone 명령어
 * Pull 과 Fetch 명령어!
 * diff 명령어
+* branch 와 merge 명령어
